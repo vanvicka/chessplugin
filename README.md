@@ -88,5 +88,5 @@ Description: user id does not exist
 500:
 Description: An error occurred
 ```
-##### Url link [https://chess.zuri.chat//api/v1/game/all/:userId]
+##### Url link [https://chess.zuri.chat/api/v1/game/all/:userId]
 
